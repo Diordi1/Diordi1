@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diordi1&label=Profile%20views&color=0e75b6&style=flat" alt="diordi1" /> </p>
 
-- 🔭 I’m currently working on [Todo FullStack Spring Boot](https://github.com/Diordi1/productivity-todo)
+- 🔭 I’m currently working on [LTemp - LMS](https://github.com/Diordi1/LTempy)
 
 - 🌱 I’m currently learning **Microservices With Spring boot**
 
